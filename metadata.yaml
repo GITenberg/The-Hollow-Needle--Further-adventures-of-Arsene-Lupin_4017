@@ -1,0 +1,41 @@
+_repo: The-Hollow-Needle--Further-adventures-of-Arsene-Lupin_4017
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    - Teixeira de Mattos, Alexander Louis
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: The gentleman thief Arsene Lupin returns in this intricately plotted
+  tale of disguises, loot, and love. Once more Lupin is at large, snatching fortunes
+  from under the noses of the wealthy - but this time he may have met his match in
+  a bright school student who manages to penetrate his secrets.
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+- !lcsh 'Burglars -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The Hollow Needle; Further adventures of Arsene Lupin
+url: http://www.gutenberg.org/ebooks/4017
